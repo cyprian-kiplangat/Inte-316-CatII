@@ -1,4 +1,3 @@
-import math
 
 # Define the function f(x)
 def f(x):
